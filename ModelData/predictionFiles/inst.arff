@@ -1,0 +1,24 @@
+@relation seasons
+@attribute first { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute second { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute third { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute fourth { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute fifth { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute six { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute seven { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute eight { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute nine { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute ten { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute eleven { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute twelve { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute thirdteen { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute fourteen { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute fifthteen { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute sixteen { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute seventeen { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute eightteen { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute nineteen { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute twenty { "aqua","black","fuchsia", "green", "grey","gray","blue", "lime", "maroon","navy", "olive","purple","red","silver","teal","white","yellow","orange"}
+@attribute class {"invierno", "verano", "otono", "primavera"}
+@data
+olive,green,green,green,black,green,olive,green,green,black,green,silver,green,olive,green,green,green,green,green,green,?
